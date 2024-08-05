@@ -1,0 +1,4 @@
+<trader>
+  <set xpath="/traders/trader_info/@open_time">00:00</set>
+  <set xpath="/traders/trader_info/@close_time">23:59</set>
+</trader>
